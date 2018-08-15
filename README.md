@@ -1,4 +1,4 @@
-# Javascript_Algorithms
+# freeCodeCamp| Javascript Algorithms
 This repo contains some simple JavaScript Algorithms that were implemented in the context of the "JavaScript Algorithms & Data Structures" Certification program offered by freeCodeCamp.
 
 **More information:**
